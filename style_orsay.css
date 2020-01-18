@@ -51,13 +51,13 @@ body
 	width: 184px;
 	line-height: 44px;
 	text-align: center;
-	background-image: url(boutonaccueil.png);
+	background-image: url(img/boutonaccueil.png);
 	color: white;
 	text-decoration: none;
 }
 .bouton a:hover
 {
-	background-image: url(boutonaccueil2.png);
+	background-image: url(img/boutonaccueil2.png);
 }
 
 .hehe a
@@ -66,14 +66,14 @@ body
 	width: 184px;
 	line-height: 44px;
 	text-align: center;
-	background-image: url(boutonvert.png);
+	background-image: url(img/boutonvert.png);
     color: white;
 	text-decoration: none;
 }
 
 .hehe a:hover
 {
-	background-image: url(boutonvert2.png);
+	background-image: url(img/boutonvert2.png);
 }
 
 .esp a
@@ -82,14 +82,14 @@ body
 	width: 159px;
 	line-height: 44px;
 	text-align: center;
-	background-image: url(espesp.png);
+	background-image: url(img/espesp.png);
 	color: black;
 	text-decoration: none;
 }
 
 .esp a:hover
 {
-	background-image: url(espesp2.png);
+	background-image: url(img/espesp2.png);
 }
 
 .boutonbouton a
@@ -98,14 +98,14 @@ body
 	width: 176px;
 	line-height: 47px;
 	text-align: center;
-	background-image: url(boutonbouton.png);
+	background-image: url(img/boutonbouton.png);
 	color: black;
 	text-decoration: none;
 }
 
 .boutonbouton a:hover
 {
-	background-image: url(boutonbouton2.png);
+	background-image: url(img/boutonbouton2.png);
 }
 
 .boutonbouton2 a
@@ -114,14 +114,14 @@ body
 	width: 176px;
 	line-height: 47px;
 	text-align: center;
-	background-image: url(boutonbouton.png);
+	background-image: url(img/boutonbouton.png);
 	color: black;
 	text-decoration: none;
 }
 
 .boutonbouton2 a:hover
 {
-	background-image: url(boutonbouton2.png);
+	background-image: url(img/boutonbouton2.png);
 }
 
 
