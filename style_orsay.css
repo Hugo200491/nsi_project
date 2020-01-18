@@ -1,0 +1,147 @@
+/* SNT : exercice CSS, Jaubert, octobre 2019  */ 
+/* page de style pour page_orsay.html  */ 
+
+/* LES COMMENTAIRES SE PLACENT ENTRE CES 2 SYMBOLES */
+/* ATTENTION : N'OUBLIEZ PAS LES POINTS VIRGULE A LA FIN DE CHAQUE PROPRIETE */
+
+
+h1 {  
+	color: red;
+	font-family: arial;
+	font-size: 42px;
+	text-align: center;
+	text-decoration: underline red;
+}
+h2 {  
+	color: black;
+	font-family: arial;
+	font-size: 24px;
+	text-decoration: underline red;
+
+	
+}
+h4 {  
+	color: green;
+	font-family: arial;
+	font-size: 24px;
+	font-style: italic;
+	
+}
+.test
+{
+	color: black;
+	font-family: arial;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.test1
+{   
+	color: red;
+	font-family: arial;
+	font-size: 33px;
+	text-decoration: underline;
+}
+body
+{   background-color: #FAEFE5; 
+}
+
+.bouton a
+{
+	display: block;
+	width: 184px;
+	line-height: 44px;
+	text-align: center;
+	background-image: url(boutonaccueil.png);
+	color: white;
+	text-decoration: none;
+}
+.bouton a:hover
+{
+	background-image: url(boutonaccueil2.png);
+}
+
+.hehe a
+{   
+    display: block;
+	width: 184px;
+	line-height: 44px;
+	text-align: center;
+	background-image: url(boutonvert.png);
+    color: white;
+	text-decoration: none;
+}
+
+.hehe a:hover
+{
+	background-image: url(boutonvert2.png);
+}
+
+.esp a
+{
+	display: block;
+	width: 159px;
+	line-height: 44px;
+	text-align: center;
+	background-image: url(espesp.png);
+	color: black;
+	text-decoration: none;
+}
+
+.esp a:hover
+{
+	background-image: url(espesp2.png);
+}
+
+.boutonbouton a
+{
+	display: block;
+	width: 176px;
+	line-height: 47px;
+	text-align: center;
+	background-image: url(boutonbouton.png);
+	color: black;
+	text-decoration: none;
+}
+
+.boutonbouton a:hover
+{
+	background-image: url(boutonbouton2.png);
+}
+
+.boutonbouton2 a
+{
+	display: block;
+	width: 176px;
+	line-height: 47px;
+	text-align: center;
+	background-image: url(boutonbouton.png);
+	color: black;
+	text-decoration: none;
+}
+
+.boutonbouton2 a:hover
+{
+	background-image: url(boutonbouton2.png);
+}
+
+
+   
+
+
+
+
+
+
+
+
+
+}
+
+
+
+	
+
+
+
+
+
