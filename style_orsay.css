@@ -8,14 +8,14 @@
 h1 {  
 	color: red;
 	font-family: arial;
-	font-size: 42px;
+	font-size: 60px;
 	text-align: center;
 	text-decoration: underline red;
 }
 h2 {  
 	color: black;
 	font-family: arial;
-	font-size: 24px;
+	font-size: 40px;
 	text-decoration: underline red;	
 }
 h4 {  
@@ -23,6 +23,13 @@ h4 {
 	font-family: arial;
 	font-size: 24px;
 	font-style: italic;
+
+}
+h3 {  
+	color: rgb(27, 170, 170);
+	font-family: arial;
+	font-size: 24px;
+	text-align: center;
 
 }
 .test
@@ -106,25 +113,44 @@ body
 	background-image: url(img/boutonbouton2.png);
 }
 
-.boutonbouton2 a
+
+.menu
+{
+	width: 270px;
+	height: 350px;
+	background-color:  rgb(240, 234, 209);
+	color: black;
+}
+
+.hugo
+{
+	color: red;
+	text-align: center;
+
+
+}
+
+.bouton2004 a
 {
 	display: block;
-	width: 176px;
-	line-height: 47px;
+	width: 204px;
+	line-height: 44px;
 	text-align: center;
-	background-image: url(img/boutonbouton.png);
-	color: black;
+	background-image: url(img/bouton.png);
+	color: white;
 	text-decoration: none;
 }
 
-.boutonbouton2 a:hover
+.bouton2004 a:hover
 {
-	background-image: url(img/boutonbouton2.png);
+	background-image: url(img/bouton3.png);
 }
-
-
-
-
+.menu2
+{
+	width: 503px;
+	height: 293px;
+	background-color:  rgb(240, 234, 209);
+	color: black;
 	
 
 
