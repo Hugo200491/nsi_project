@@ -21,8 +21,10 @@ h1 {
 h2 {  
 	color: black;
 	font-family: arial;
-	font-size: 40px;
-	/* text-decoration: underline red;	*/
+	font-size: 35px;
+	text-align: left;
+	/* text-decoratio
+	n: underline red;	*/
 }
 h4 {  
 	color: green;
@@ -44,6 +46,7 @@ h3 {
 	font-family: arial;
 	font-size: 20px;
 	text-decoration: underline;
+	text-align: left;
 }
 .test1
 {   
@@ -123,7 +126,7 @@ body
 .menu
 {
 	width: 270px;
-	height: 350px;
+	height: 450px;
 	background-color:  rgb(240, 234, 209);
 	color: black;
 }
@@ -161,3 +164,27 @@ body
 
 
 
+.menu4
+{
+	width: 290px;
+	height: 123px;
+	background-color:  rgb(255, 255, 255);
+	color: black;
+}
+
+
+.bouton5 a
+{
+	display: block;
+	width: 179px;
+	line-height: 44px;
+	text-align: center;
+	background-image: url(img/boutonbleu.png);
+	color: white;
+	text-decoration: none;
+}
+
+.bouton5 a:hover
+{
+	background-image: url(img/boutonbleuclaire.png);
+}
