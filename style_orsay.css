@@ -4,6 +4,12 @@
 /* LES COMMENTAIRES SE PLACENT ENTRE CES 2 SYMBOLES */
 /* ATTENTION : N'OUBLIEZ PAS LES POINTS VIRGULE A LA FIN DE CHAQUE PROPRIETE */
 
+body  {  
+	color: black;
+	font-family: arial;
+	text-align: center;
+}
+
 
 h1 {  
 	color: red;
@@ -16,7 +22,7 @@ h2 {
 	color: black;
 	font-family: arial;
 	font-size: 40px;
-	text-decoration: underline red;	
+	/* text-decoration: underline red;	*/
 }
 h4 {  
 	color: green;
@@ -151,9 +157,7 @@ body
 	height: 293px;
 	background-color:  rgb(240, 234, 209);
 	color: black;
-	
-
-
+}
 
 
 
